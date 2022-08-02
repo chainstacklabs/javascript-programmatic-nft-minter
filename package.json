@@ -1,0 +1,20 @@
+{
+  "name": "NFT-Minter-Tutorial-Repo",
+  "version": "0.0.1",
+  "description": "Repo containing all tutorial files from 'The ultimate guide to NFTs: From concept to market success' originally published on the Chainstack blog. Contains scripts, contracts, ABI, BIN, and JSON files needed to create a new wallet, check its balance, compile an NFT contract, and mint NFTs using custom metadata on the Ethereum network.",
+  "main": "keys.js",
+  "scripts": {
+    "Create wallet-key pair": "keys.js",
+    "Get wallet balance": "balance.js",
+    "Deploy smartcontract": "deploy.js",
+    "Mint NFTs with metadata": "mint.js"
+  },
+  "author": "Petar Stoykov",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.2",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "web3": "^1.7.5"
+  }
+}
