@@ -18,10 +18,9 @@
 
 # NFT Minter Tutorial
 
-## Description
 This project contains all of the tutorial files from [The ultimate guide to NFTs: From concept to market success](https://chainstack.com/ultimate-guide-to-nfts/) published on the Chainstack blog.
 
-## Project description
+## Project details
 
 This repository contains scripts and contracts needed to create a new wallet, check its balance, compile an NFT contract, and mint NFTs using custom metadata on the Ethereum network.
 
