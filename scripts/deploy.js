@@ -1,13 +1,13 @@
 //Process dependencies
-require('dotenv').config();
+require('dotenv').config({path: '../.env'})
 const endpoint = process.env.ENDPOINT_URL;
 const address = process.env.PUBLIC_KEY;
 const privKey = process.env.PRIVATE_KEY;
 var Web3 = require('web3');
 var web3 = new Web3(Web3.givenProvider || endpoint);
 var fs = require('fs');
-var contractABI = JSON.parse(fs.readFileSync('./PCHNFT_sol_PlaceholderHeroes.abi', 'utf8'));
-var contractBIN = fs.readFileSync('./PCHNFT_sol_PlaceholderHeroes.bin', 'utf8');
+var contractABI = JSON.parse(fs.readFileSync('../contracts/compiled/PCHNFT_sol_PlaceholderHeroes.abi', 'utf8'));
+var contractBIN = fs.readFileSync('../contracts/compiled/PCHNFT_sol_PlaceholderHeroes.bin', 'utf8');
 
 //Create asynchronous deploy function
 const deploy = async () => {
