@@ -13,12 +13,11 @@
 </p>
 
 <p align="center">
-  • <a target="_blank" href="https://chainstack.com/">Homepage</a> •
   <a target="_blank" href="https://chainstack.com/protocols/">Supported protocols</a> •
   <a target="_blank" href="https://chainstack.com/blog/">Chainstack blog</a> •
-  <a target="_blank" href="https://docs.chainstack.com/quickstart/">Chainstack docs</a> •
-  <a target="_blank" href="https://docs.chainstack.com/quickstart/">Blockchain API reference</a> •
-  <a target="_blank" href="https://console.chainstack.com/user/account/create">Start for free</a> •
+  <a target="_blank" href="https://docs.chainstack.com/">Chainstack docs</a> •
+  <a target="_blank" href="https://docs.chainstack.com/api/">Blockchain API reference</a> •
+  <a target="_blank" href="https://console.chainstack.com/user/account/create">Start for free</a>
 </p>
 
 # NFT Minter Tutorial
@@ -34,11 +33,7 @@ Find the full tutorial article available on the Chainstack blog:
 
 ## Quick start
 
-### Clone this repository
-
-```sh
-git clone https://github.com/soos3d/NFT-Minter-Tutorial.git
-```
+Clone this repository.
 
 ### Install dependencies
 
