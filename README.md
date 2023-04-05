@@ -90,13 +90,6 @@ The system requires at least:
 * Node.js: ^16.17.0— [install Node](https://nodejs.org/en/download/)
 * Solc.js installed globally
 
-### Dependencies 
-
-* web3.js: ^1.7.5
-* @openzeppelin/contracts: ^4.7.2
-* Solc.js: ^0.8.17
-* dotenv: ^16.0.1
-* fs: ^0.0.1-security 
 
 ## Install 
 
