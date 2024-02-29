@@ -12,7 +12,7 @@
   "author": "Petar Stoykov",
   "license": "MIT",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.7.2",
+    "@openzeppelin/contracts": "^4.9.6",
     "dotenv": "^16.0.1",
     "fs": "^0.0.1-security",
     "solc": "^0.8.17",
