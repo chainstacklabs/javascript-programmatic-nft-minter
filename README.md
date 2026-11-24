@@ -5,31 +5,31 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://chainstack.com/build-better-with-ethereum/"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Ethereum.svg" /></a>&nbsp;  
-  <a target="_blank" href="https://chainstack.com/build-better-with-bnb-smart-chain/"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/BNB.svg" /></a>&nbsp;
-  <a target="_blank" href="https://chainstack.com/build-better-with-polygon/"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Polygon.svg" /></a>&nbsp;
-  <a target="_blank" href="https://chainstack.com/build-better-with-avalanche/"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Avalanche.svg" /></a>&nbsp;
-  <a target="_blank" href="https://chainstack.com/build-better-with-fantom/"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Fantom.svg" /></a>&nbsp;
+  <a target="_blank" href="https://chainstack.com/build-better-with-ethereum/?utm_source=github&utm_medium=referral&utm_campaign=javascript-programmatic-nft-minter"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Ethereum.svg" /></a>&nbsp;  
+  <a target="_blank" href="https://chainstack.com/build-better-with-bnb-smart-chain/?utm_source=github&utm_medium=referral&utm_campaign=javascript-programmatic-nft-minter"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/BNB.svg" /></a>&nbsp;
+  <a target="_blank" href="https://chainstack.com/build-better-with-polygon/?utm_source=github&utm_medium=referral&utm_campaign=javascript-programmatic-nft-minter"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Polygon.svg" /></a>&nbsp;
+  <a target="_blank" href="https://chainstack.com/build-better-with-avalanche/?utm_source=github&utm_medium=referral&utm_campaign=javascript-programmatic-nft-minter"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Avalanche.svg" /></a>&nbsp;
+  <a target="_blank" href="https://chainstack.com/build-better-with-fantom/?utm_source=github&utm_medium=referral&utm_campaign=javascript-programmatic-nft-minter"><img src="https://github.com/soos3d/blockchain-badges/blob/main/protocols_badges/Fantom.svg" /></a>&nbsp;
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://chainstack.com/protocols/">Supported protocols</a> •
-  <a target="_blank" href="https://chainstack.com/blog/">Chainstack blog</a> •
-  <a target="_blank" href="https://docs.chainstack.com/">Chainstack docs</a> •
-  <a target="_blank" href="https://docs.chainstack.com/api/">Blockchain API reference</a> •
-  <a target="_blank" href="https://console.chainstack.com/user/account/create">Start for free</a>
+  <a target="_blank" href="https://chainstack.com/protocols/?utm_source=github&utm_medium=referral&utm_campaign=javascript-programmatic-nft-minter">Supported protocols</a> •
+  <a target="_blank" href="https://chainstack.com/blog/?utm_source=github&utm_medium=referral&utm_campaign=javascript-programmatic-nft-minter">Chainstack blog</a> •
+  <a target="_blank" href="https://docs.chainstack.com/?utm_source=github&utm_medium=referral&utm_campaign=javascript-programmatic-nft-minter">Chainstack docs</a> •
+  <a target="_blank" href="https://docs.chainstack.com/reference/blockchain-apis?utm_source=github&utm_medium=referral&utm_campaign=javascript-programmatic-nft-minter">Blockchain API reference</a> •
+  <a target="_blank" href="https://console.chainstack.com/sign-up?utm_source=github&utm_medium=referral&utm_campaign=javascript-programmatic-nft-minter">Start for free</a>
 </p>
 
 # NFT Minter Tutorial
 
-This project contains all of the tutorial files from [The ultimate guide to NFTs: From concept to market success](https://chainstack.com/ultimate-guide-to-nfts/) published on the Chainstack blog.
+This project contains all of the tutorial files from [The ultimate guide to NFTs: From concept to market success](https://chainstack.com/ultimate-guide-to-nfts/?utm_source=github&utm_medium=referral&utm_campaign=javascript-programmatic-nft-minter) published on the Chainstack blog.
 
 ## Project details
 
 This repository contains scripts and contracts needed to create a new wallet, check its balance, compile an NFT contract, and mint NFTs using custom metadata on the Ethereum network.
 
 Find the full tutorial article available on the Chainstack blog:
-* [The ultimate guide to NFTs: From concept to market success](https://chainstack.com/ultimate-guide-to-nfts/)
+* [The ultimate guide to NFTs: From concept to market success](https://chainstack.com/ultimate-guide-to-nfts/?utm_source=github&utm_medium=referral&utm_campaign=javascript-programmatic-nft-minter)
 
 ## Quick start
 
@@ -81,7 +81,7 @@ Go into the `scripts` folder and run:
 node deploy
 ```
 
-You just deployed your NFT smart contract. See the [The ultimate guide to NFTs: From concept to market success](https://chainstack.com/ultimate-guide-to-nfts/) to mint your NFTs.
+You just deployed your NFT smart contract. See the [The ultimate guide to NFTs: From concept to market success](https://chainstack.com/ultimate-guide-to-nfts/?utm_source=github&utm_medium=referral&utm_campaign=javascript-programmatic-nft-minter) to mint your NFTs.
 
 ## Prerequisites
 
